@@ -2,9 +2,9 @@
 /*
 Provider Tri
 */
-echo @color("white","��─\n");
+echo @color("white","╔════════════════════════════════════════════════╗"\n");
 echo @color("green","                 PAKET MAGIC 3            \n");
-echo @color("white","��─\n");
+echo @color("white","╚════════════════════════════════════════════════╝"\n");
 echo @color('purple', "Nomor Tri Kamu  \t\t: ");
 $nomor = trim(fgets(STDIN));
 $login = login($nomor);
