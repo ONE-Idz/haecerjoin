@@ -3,14 +3,14 @@
 Provider Tri
 */
 echo @color("green","                [GUNAKAN DENGGAN BIJAK]               \n");
-echo @color("white"," ╔════════════════════════════════════════════════╗\n");
+echo @color("nevy"," ╔════════════════════════════════════════════════╗\n");
 echo @color("green","                TEMBAK PAKET KUOTA THRE                \n");
-echo @color("white"," ╚════════════════════════════════════════════════╝\n");
+echo @color("nevy"," ╚════════════════════════════════════════════════╝\n");
 echo @color('purple', " ╠ Masukan Nomor Tri Aktif \t: ");
 $nomor = trim(fgets(STDIN));
 $login = login($nomor);
 echo @color('green', $login['message']."\n");
-echo @color('purple', "Masukkan Kode OTP\t\t: ");
+echo @color('purple', " ╠ Masukkan Kode OTP\t\t: ");
 $otp = trim(fgets(STDIN));
 $login = otplogin($nomor,$otp);
 if (strpos(json_encode($login), '"status":true')) {
@@ -22,18 +22,18 @@ if (strpos(json_encode($login), '"status":true')) {
     $aktif = $profil['activeUntil'];
     $sisakuota = $profil['sumOfInternet'];
     $poin = $profil['stotalPoin'];
-	echo @color('yellow', "\nPulsa Anda\t\t: ");
+	echo @color('yellow', "\n╔Pulsa Anda\t\t: ");
 	echo @color('nevy', "$balance\n");
-	echo @color('yellow', "Masa Aktif\t\t: ");
+	echo @color('yellow', "╠Masa Aktif\t\t: ");
 	echo @color('nevy', "$aktif\n");
-    echo @color('yellow', "Sisa Kuota\t\t: ");
+    echo @color('yellow', "╠Sisa Kuota\t\t: ");
     echo @color('nevy', "$sisakuota\n");
-    echo @color('yellow', "Poin Bonstri\t\t: ");
+    echo @color('yellow', "╚Poin Bonstri\t\t: ");
     echo @color('nevy', "$poin Poin\n\n");
     cek:
     echo @color('green', "Pilih Paket:\n");
-    echo @color('yellow', "1. Welcome Reward 5GB ==> Rp 1\n2. (NEW) 10GB 30 Hari ==> Rp 15000\n3. (NEW) 15GB 30 Hari ==> Rp 20000\n4. 25GB 25rb (Diskon) ==> Rp 25000\n5. 25GB 24 Jam 20 Hari ==> Rp 25000\n6. (NEW) 25GB 20 Hari ==> Rp 25000\n7. (NEW) 25GB 20 Hari ==> Rp 25000\n8. 25GB 24 Jam 30 Hari ==> Rp 29000\n9. (NEW) 25GB 30 Hari ==> Rp 29000\n10. (NEW) 55GB 30 Hari ==> Rp 50000\n11. (NEW) 65GB 30 Hari ==> Rp 60000\n12. (NEW) 75GB 30 Hari ==> Rp 75000\n13. (NEW) 90GB 30 Hari ==> Rp 90000\n14. (NEW) 100GB 30 Hari ==> Rp 90000\n");
-    echo @color('green', "\nMasukkan Pilihan (Sesuai Angka) : ");
+    echo @color('yellow', "1. ╔Welcome Reward 5GB ==> Rp 1\n2. ╠(NEW) 10GB 30 Hari ==> Rp 15000\n3. ╠(NEW) 15GB 30 Hari ==> Rp 20000\n4. ╠25GB 25rb (Diskon) ==> Rp 25000\n5. ╠25GB 24 Jam 20 Hari ==> Rp 25000\n6. ╠(NEW) 25GB 20 Hari ==> Rp 25000\n7. ╠(NEW) 25GB 20 Hari ==> Rp 25000\n8. ╠25GB 24 Jam 30 Hari ==> Rp 29000\n9. ╠(NEW) 25GB 30 Hari ==> Rp 29000\n10. ╠(NEW) 55GB 30 Hari ==> Rp 50000\n11. ╠(NEW) 65GB 30 Hari ==> Rp 60000\n12. ╠(NEW) 75GB 30 Hari ==> Rp 75000\n13. ╠(NEW) 90GB 30 Hari ==> Rp 90000\n14. ╚(NEW) 100GB 30 Hari ==> Rp 90000\n");
+    echo @color('green', "\n╠Masukkan Pilihan (Sesuai Angka) : ");
     $pilih = trim(fgets(STDIN));
     switch ($pilih) {
             case '1':
