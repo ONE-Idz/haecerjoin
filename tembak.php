@@ -2,10 +2,11 @@
 /*
 Provider Tri
 */
-echo @color("white","╔════════════════════════════════════════════════╗"\n");
-echo @color("green","                 PAKET MAGIC 3            \n");
-echo @color("white","╚════════════════════════════════════════════════╝"\n");
-echo @color('purple', "Nomor Tri Kamu  \t\t: ");
+echo @color("green","                [GUNAKAN DENGGAN BIJAK]               \n");
+echo @color("white"," ╔════════════════════════════════════════════════╗\n");
+echo @color("green","                TEMBAK PAKET KUOTA THRE                \n");
+echo @color("white"," ╚════════════════════════════════════════════════╝\n");
+echo @color('purple', "Masukan Nomor Tri Aktif \t\t: ");
 $nomor = trim(fgets(STDIN));
 $login = login($nomor);
 echo @color('green', $login['message']."\n");
