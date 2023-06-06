@@ -38,6 +38,6 @@ $ ls
 
 $ git pull
 
-$ python zmb
+$ python zmbf.py
 
 
