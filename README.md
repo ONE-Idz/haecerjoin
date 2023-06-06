@@ -1,6 +1,6 @@
 # Pejuang Janda Pirang🐒
 
-╿Comand/Perintalh╿
+╿Comand/Perintah╿
 
 $ termux-setup-storage
 
