@@ -20,7 +20,7 @@ $ pip install modul requests
 
 $ pip install
 
-$ git clone https://github.com/JunPakaya29/haecerjoin
+$ git clone https://github.com/ONE-Idz/haecerjoin
 
 $ ls
 
