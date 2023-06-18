@@ -4,8 +4,6 @@
 
 $ termux-setup-storage
 
-$ pkg update && apt upgrade
-
 $ pkg install python git
 
 $ pkg install play-audio
@@ -25,6 +23,16 @@ $ git clone https://github.com/ONE-Idz/haecerjoin
 $ ls
 
 $ cd haecerjoin
+
+$ apt update && apt upgrade
+
+$ pip install 
+
+$ pip install ssl
+
+$ ls
+
+& python zmbf.py
 
 $ git pull
 
