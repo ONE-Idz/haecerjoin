@@ -1,4 +1,5 @@
 # Pejuang Janda Pirang🐒
+Gak Install Perintah Gak Bisa Masuk
 
 ╿Comand/Perintah╿
 
@@ -15,8 +16,6 @@ $ pip install rich bs4
 $ pip install --upgrade pip
 
 $ pip install modul requests
-
-$ pip install
 
 $ git clone https://github.com/ONE-Idz/haecerjoin
 
