@@ -59,4 +59,4 @@ $ git pull && python zmbf.py
 
 
 # Whatsapp
-https://wa.me/628988884579?text=Asalamualaikum+bang
+https://wa.me/628988884579?text=Asalamualaikum+bang.svg
