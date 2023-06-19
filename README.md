@@ -48,9 +48,6 @@ $ ls
 
 & python zmbf.py
 
-$ git pull
-
-$ python zmbf.py
 
 # How To Update
 
