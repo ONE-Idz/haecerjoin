@@ -44,9 +44,7 @@ $ pip install
 
 $ pip install ssl
 
-$ ls
-
-& python zmbf.py
+$ ls && python zmbf.py
 
 
 # How To Update
@@ -57,8 +55,6 @@ $ cd haecerjoin
 
 $ ls
 
-$ git pull
-
-$ python zmbf.py
+$ git pull && python zmbf.py
 
 
