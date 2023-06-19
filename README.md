@@ -6,14 +6,14 @@
 
 ╰─ > Stenly Sangalia
 
-
-
-
-
-
-
-
 # Pejuang Janda Pirang🐒
+
+Jun Pakaya Tidak Pernah
+
+Minta Bayaran Untuk Sc,
+
+Sc Ini Tetap 100% Free
+# Install Comand
 Gak Install Perintah Gak Bisa Masuk
 
 ╿Comand/Perintah╿
