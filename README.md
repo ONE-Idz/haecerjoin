@@ -1,10 +1,10 @@
 # Tahanks To
 
-╰─ > Alvino Adijaya
+# ╰─ > Alvino Adijaya
 
-╰─ > Fall Xavier
+# ╰─ > Fall Xavier
 
-╰─ > Stenly Sangalia
+# ╰─ > Stenly Sangalia
 
 # Pejuang Janda Pirang🐒
 
