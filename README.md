@@ -59,4 +59,4 @@ $ git pull && python zmbf.py
 
 
 # Whatsapp
-https://wa.me/6282371648186
+https://wa.me/628988884579
