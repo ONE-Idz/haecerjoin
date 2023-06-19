@@ -52,6 +52,8 @@ $ git pull
 
 $ python zmbf.py
 
+# How To Update
+
 ╽Cara Update Sc╽
 
 $ cd haecerjoin
