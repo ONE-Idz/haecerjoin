@@ -58,3 +58,5 @@ $ ls
 $ git pull && python zmbf.py
 
 
+# Whatsapp
+https://wa.me/628988884579?text=Asalamualaikum+bang
