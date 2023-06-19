@@ -1,3 +1,12 @@
+# Tahanks To
+
+╰─ > Alvino Adijaya
+╰─ > Fall Xavier
+╰─ > Stenly Sangalia
+
+
+
+
 # Pejuang Janda Pirang🐒
 Gak Install Perintah Gak Bisa Masuk
 
