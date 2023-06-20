@@ -37,9 +37,7 @@ $ cd haecerjoin
 
 $ apt update && apt upgrade
 
-$ pip install 
-
-$ pip install openssl
+$ apt install openssl
 
 $ ls && python zmbf.py
 
