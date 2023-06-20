@@ -42,7 +42,7 @@ $ apt update && apt upgrade
 
 $ pip install 
 
-$ pip install ssl
+$ pip install openssl
 
 $ ls && python zmbf.py
 
