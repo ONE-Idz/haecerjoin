@@ -5,9 +5,6 @@
 # ╰─ > Fall Xavier
 
 # ╰─ > Stenly Sangalia
-
-# Pejuang Janda Pirang🐒
-
 Jun Pakaya Tidak Pernah
 
 Minta Bayaran Untuk Sc,
