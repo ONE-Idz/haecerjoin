@@ -3,7 +3,7 @@
 ### jadi pastinya script ini 100% Free, 
 ###Tetap Bersyukur apa pun hasilnya yaa, okay
 ###--------------------------------------------------------------------------------------------->
-#     *Note* Mengandung Bot Komen&like
+#     *Note* Mengandung Bot Komen&like* Anggap Sebagai Tanda TerimaKasih:)
 #     *Loger? Pastinya Aman Dong,,
 #     *Reapload *by Jun m.pakaya
 #     *Thanks *To Alvino&Fall
