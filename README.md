@@ -18,7 +18,7 @@
 # Install Comand
 - ####  Gak Install Perintah Gak Bisa Masuk
 
- ### - ╿Comand/Perintah╿ 
+ ### ╿Comand/Perintah╿ 
 
 - $ termux-setup-storage
 
@@ -49,17 +49,17 @@
 
 # How To Update
 
-- ╽Cara Update Sc╽ 
+### ╽Cara Update Sc╽ 
 
-$ cd haecerjoin
+- $ cd haecerjoin
 
-$ ls
+- $ ls
 
-$ git pull && python zmbf.py
+- $ git pull && python zmbf.py
 
-# Thankss
-### ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
-# Whatsapp
+
+#### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
+- ### Whatsapp
 ##### https://wa.me/628988884579
 
 
