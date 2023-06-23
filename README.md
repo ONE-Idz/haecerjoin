@@ -62,4 +62,5 @@
 
 
 ###### ![whatsapp](https://img.shields.io/badge/Whatsapp-JunPakaya-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-[ alt text ](whatsapp)
+[ alt text ](https://wa.me/message/P4W6MMXXLCXYC1)
+
