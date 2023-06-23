@@ -60,5 +60,4 @@
 
 #### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
 
-###### ![alt text](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![alt text](https://img.shields.io/badge/Whatsapp-JunM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+###### ![alt text](https://img.shields.io/badge/Whatsapp-JunPakaya-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
