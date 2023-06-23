@@ -5,6 +5,7 @@
 #### ╰─ > Fall Xavier
 
 #### ╰─ > Stenly Sangalia
+- ###### Note*
 - Jun Pakaya Tidak Pernah
 
 - Minta Bayaran Untuk Sc,
