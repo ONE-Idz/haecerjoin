@@ -58,4 +58,4 @@ $ git pull && python zmbf.py
 # Whatsapp
 https://wa.me/628988884579
 
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+https://img.shields.io/badge/WhatsApp-25D366https://wa.me/628988884579?style=for-the-badge&logo=whatsapp&logoColor=white
