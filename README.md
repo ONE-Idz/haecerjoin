@@ -10,7 +10,7 @@ Jun Pakaya Tidak Pernah
 Minta Bayaran Untuk Sc,
 
 Sc Ini Tetap 100% Free
-![alt text](https://github.com/LOVE-XTRY/LOVE-XTRY/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
+![alt text](https://github.com/LOVE-XTRY/LOVE-XTRY/blob/main/Screenshot_2023-06-21-00w=true)rue)rue)
 # Install Comand
 Gak Install Perintah Gak Bisa Masuk
 
