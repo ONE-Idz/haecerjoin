@@ -6,11 +6,11 @@
 
 #### ╰─ > Stenly Sangalia
 - ###### Note*
-- Jun Pakaya Tidak Pernah
+- ###### Jun Pakaya Tidak Pernah
 
-- Minta Bayaran Untuk Sc,
+- ###### Minta Bayaran Untuk Sc,
 
-- Sc Ini Tetap 100% Free
+- ###### Sc Ini Tetap 100% Free
 ###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
 # Install Comand
 Gak Install Perintah Gak Bisa Masuk
