@@ -58,4 +58,4 @@ $ git pull && python zmbf.py
 # Whatsapp
 https://wa.me/628988884579
 
-![https://img.shields.io]({WhatsApp-25D366})
+![img.shields.io]({WhatsApp-25D366})
