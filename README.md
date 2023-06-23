@@ -18,7 +18,7 @@
 # Install Comand
 - ####  Gak Install Perintah Gak Bisa Masuk
 
- ### ╿Comand/Perintah╿ 
+- #### ╿Comand/Perintah╿ 
 
 - $ termux-setup-storage
 
