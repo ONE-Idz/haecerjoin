@@ -56,4 +56,3 @@ $ git pull && python zmbf.py
 ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
 # Whatsapp
 https://wa.me/628988884579
-![alt text](https://wa.me/628988884579?raw=true)
