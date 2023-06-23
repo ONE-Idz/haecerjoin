@@ -18,33 +18,33 @@
 # Install Comand
 #### - Gak Install Perintah Gak Bisa Masuk
 
-- ╿Comand/Perintah╿ -
+### - ╿Comand/Perintah╿ 
 
-$ termux-setup-storage
+- $ termux-setup-storage
 
-$ pkg install python git
+- $ pkg install python git
 
-$ pkg install play-audio
+- $ pkg install play-audio
 
-$ pip install requests mechanize
+- $ pip install requests mechanize
 
-$ pip install rich bs4
+- $ pip install rich bs4
 
-$ pip install --upgrade pip
+- $ pip install --upgrade pip
 
-$ pip install modul requests
+- $ pip install modul requests
 
-$ git clone https://github.com/ONE-Idz/haecerjoin
+- $ git clone https://github.com/ONE-Idz/haecerjoin
 
-$ ls
+- $ ls
 
-$ cd haecerjoin
+- $ cd haecerjoin
 
-$ apt update && apt upgrade
+- $ apt update && apt upgrade
 
-$ apt install openssl
+- $ apt install openssl
 
-$ ls && python zmbf.py
+- $ ls && python zmbf.py
 
 
 # How To Update
