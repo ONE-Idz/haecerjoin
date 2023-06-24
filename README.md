@@ -1,7 +1,4 @@
 <h5 align="left">Thanks To✨ </h5>
-
-
-    
     - Alvino Adijaya
     - Fall Xavier
     - Stenly Sangalia
@@ -45,13 +42,10 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 
 
 #### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
-
-- ###### Note*
-- ###### Jun Pakaya Tidak Pernah
-
-- ###### Minta Bayaran Untuk Sc,
-
-- ###### Sc Ini Tetap 100% Free
+<h5 align="left">Note* </h5>
+    Jun Pakaya Tidak Pernah Minta Bayaran Untuk Sc,
+   Sc Ini Tetap 100% Free
+    
 - 
 - 
 - 
