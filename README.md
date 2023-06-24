@@ -15,10 +15,9 @@
 - 
 - 
 ###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
-# Install Comand
-- ####  Gak Install Perintah Gak Bisa Masuk
+-
 
-- #### ╿Comand/Perintah╿ 
+<h5 align="left">INSTALL COMAND IN TERMUX:</h5>
 download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
@@ -39,32 +38,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $ ls && python zmbf.py
 
 
-<h5 align="left">MENJALANKAN SCRIPT:</h5>
-- $ termux-setup-storage
 
-- $ pkg install python git
-
-- $ pkg install play-audio
-
-- $ pip install requests mechanize
-
-- $ pip install rich bs4
-
-- $ pip install --upgrade pip
-
-- $ pip install modul requests
-
-- $ git clone https://github.com/ONE-Idz/haecerjoin
-
-- $ ls
-
-- $ cd haecerjoin
-
-- $ apt update && apt upgrade
-
-- $ apt install openssl
-
-- $ ls && python zmbf.py
 
 
 # How To Update
