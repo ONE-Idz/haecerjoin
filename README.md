@@ -14,7 +14,7 @@
 ###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
 -
 
-<h5 align="left">INSTALL COMAND IN TERMUX:</h5>
+- notice me:<h5 align="left">INSTALL COMAND IN TERMUX:</h5>
 download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
