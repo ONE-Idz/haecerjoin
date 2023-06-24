@@ -1,10 +1,10 @@
-## Tahanks To
+<h5 align="left">Thanks To ✨</h5>
 
-#### ╰─ > Alvino Adijaya
+- Alvino Adijaya
 
-#### ╰─ > Fall Xavier
+- Fall Xavier
 
-#### ╰─ > Stenly Sangalia
+- Stenly Sangalia
 - ###### Note*
 - ###### Jun Pakaya Tidak Pernah
 
