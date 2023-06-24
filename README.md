@@ -14,7 +14,7 @@
 ###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
 -
 
-- notice me:<h5 align="left">INSTALL COMAND IN TERMUX:</h5>
+<h5 align="left">INSTALL COMAND IN TERMUX:</h5>
 download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
@@ -61,7 +61,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 <a href="https://wa.me/+628988884579">![alt text](https://img.shields.io/badge/Whatsapp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 -
-<h5 align="left"> ☕👈 </h5>
+<h5 align="left"> Thanks☕👈 </h5>
 
-    Thankss
+    
     
