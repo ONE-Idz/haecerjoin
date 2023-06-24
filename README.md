@@ -3,6 +3,10 @@
     - Alvino Adijaya
     - Fall Xavier
     - Stenly Sangalia
+    - Mat Mokoagow
+    - Fikri Ladja
+    - AyixL
+    - Salsa M.h
 
     
 
