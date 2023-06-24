@@ -62,6 +62,6 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 
 -
 
-- <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/Kakak_Adik_Ngent0d.mp4/file">Thanks:/</a>
+- <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/Kakak_Adik_Ngent0d.mp4/file">Thanks☕👈</a>
     
     
