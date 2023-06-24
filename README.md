@@ -1,6 +1,6 @@
 <h5 align="left">Thanks To✨ </h5>
     
-    - Alvino Adijaya
+    -  Alvino Adijaya
     - Fall Xavier
     - Stenly Sangalia
     - Mat Mokoagow
