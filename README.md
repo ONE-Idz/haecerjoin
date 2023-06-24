@@ -23,7 +23,6 @@ Jika Belum Memeliki Termux, Untuk Download <a href="https://f-droid.org/repo/com
     $ pkg install play-audio
     $ pip install requests mechanize
     $ pip install stdiomask
-    $ pip install stdiomask
     $ pip install rich bs4
     $ pip install modul requests
     $ pip install --upgrade pip
