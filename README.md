@@ -57,5 +57,8 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
    
 - 
 - 
-- 
+
+<a href="https://github.com/ONE-Idz">
+  <img width="40%" src="https://avatars.githubusercontent.com/u/101446019?s=96&v=4" />
+</a>
 ###### ![alt text](https://img.shields.io/badge/Whatsapp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
