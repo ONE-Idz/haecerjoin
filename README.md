@@ -64,6 +64,6 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 <h5 align="left"> ☕👈 </h5>
 <h5 align="left">Thanks To✨ </h5>
     
-    
+    ```aarch64```
     ```Thankss```
     
