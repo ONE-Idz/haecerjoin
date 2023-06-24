@@ -1,9 +1,7 @@
 <h5 align="left">Thanks To :</h5>
 
 
-    $ cd haecerjoin
-    $ ls
-    $ git pull
+    
     - Alvino Adijaya
     - Fall Xavier
     - Stenly Sangalia
