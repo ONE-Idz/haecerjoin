@@ -45,7 +45,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $ ls
     $ git pull
 
-
+<a href="https://wa.me/+62895383371377">![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)</a>
 
 #### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
 <h5 align="left">Note* </h5>
