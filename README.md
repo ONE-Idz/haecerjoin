@@ -10,6 +10,11 @@
 
 -    
 
+<h5 align="left">Note* </h5>
+
+gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
+
+-
 ###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
 -
 
@@ -58,9 +63,6 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 - 
 - 
 
-<a href="https://github.com/ONE-Idz">
-  <img width="40%" src="https://avatars.githubusercontent.com/u/101446019?s=96&v=4" />
-</a>
 
 -
 
