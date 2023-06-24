@@ -61,5 +61,9 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 <a href="https://wa.me/+628988884579">![alt text](https://img.shields.io/badge/Whatsapp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 -
-<h5 align="left"> - </h5>
-        thanks
+<h5 align="left"> ☕👈 </h5>
+<h5 align="left">Thanks To✨ </h5>
+    
+    
+    ```Thankss```
+    
