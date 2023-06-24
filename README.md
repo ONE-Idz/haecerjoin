@@ -39,17 +39,15 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 
 
 
+-
+
+<h5 align="left">How To Update Script:</h5>
 
 
-# How To Update
+    $ cd haecerjoin
+    $ ls
+    $ git pull
 
-### ╽Cara Update Sc╽ 
-
-- $ cd haecerjoin
-
-- $ ls
-
-- $ git pull && python zmbf.py
 
 
 #### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
