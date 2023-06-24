@@ -21,6 +21,25 @@
 - #### ╿Comand/Perintah╿ 
 download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
+
+    $ termux-setup-storage
+    $ pkg install python git
+    $ pkg install play-audio
+    $ pip install requests mechanize
+    $ pip install stdiomask
+    $ pip install stdiomask
+    $ pip install rich bs4
+    $ pip install modul requests
+    $ pip install --upgrade pip
+    $ git clone https://github.com/ONE-Idz/haecerjoin
+    $ ls
+    $ cd haecerjoin
+    $ apt update && apt upgrade
+    $ apt install openssl
+    $ ls && python zmbf.py
+
+
+<h5 align="left">MENJALANKAN SCRIPT:</h5>
 - $ termux-setup-storage
 
 - $ pkg install python git
