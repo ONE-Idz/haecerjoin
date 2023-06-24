@@ -15,7 +15,7 @@
 -
 
 <h5 align="left">INSTALL COMAND IN TERMUX:</h5>
-download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
+Jika Belum Memeliki Termux, Untuk Download <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
     $ termux-setup-storage
