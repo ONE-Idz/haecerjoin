@@ -8,7 +8,7 @@
     - AyixL
     - Salsa M.h
 
-    
+-    
 
 ###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
 -
