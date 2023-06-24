@@ -15,7 +15,7 @@
 -
 
 <h5 align="left">INSTALL COMAND IN TERMUX:</h5>
-download``` aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan ```perintah``` dibawah ini.
+download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
     $ termux-setup-storage
@@ -50,9 +50,9 @@ download``` aplikasi termux di playstore atau <a href="https://f-droid.org/repo/
 #### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
 <h5 align="left">Note* </h5>
     
-    ```Jun Pakaya Tidak Pernah Minta
+    Jun Pakaya Tidak Pernah Minta
     Bayaran Untuk Sc,
-    Sc Ini Tetap 100% Free```
+    Sc Ini Tetap 100% Free
     
    
    
