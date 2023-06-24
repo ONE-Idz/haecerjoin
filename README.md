@@ -54,10 +54,10 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     Bayaran Untuk Sc,
     Sc Ini Tetap 100% Free
     
+
    
    
-- 
-- 
+ 
 <a href="https://wa.me/+628988884579?text=Permisi+bang+Jun!">![alt text](https://img.shields.io/badge/Whatsapp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 -
