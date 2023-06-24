@@ -1,12 +1,12 @@
 <h5 align="left">Thanks To✨ </h5>
     
-    -  Alvino Adijaya
-    - Fall Xavier
-    - Stenly Sangalia
-    - Mat Mokoagow
-    - Fikri Ladja
-    - AyixL
-    - Salsa M.h
+    [•] Alvino Adijaya
+    [•] Fall Xavier
+    [•] Stenly Sangalia
+    [•] Mat Mokoagow
+    [•] Fikri Ladja
+    [•] AyixL
+    [•] Salsa M.h
 
 -    
 
