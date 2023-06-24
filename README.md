@@ -19,6 +19,7 @@
 - ####  Gak Install Perintah Gak Bisa Masuk
 
 - #### ╿Comand/Perintah╿ 
+download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 - $ termux-setup-storage
 
