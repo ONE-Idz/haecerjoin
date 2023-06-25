@@ -18,7 +18,7 @@
 
 <h5 align="left">INSTALL COMAND IN TERMUX:</h5>
 Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini.
-
+- - -
 
     $ termux-setup-storage
     $ pkg install python git
@@ -46,7 +46,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
     $ ls
     $ git pull
 
-
+- - -
 
 #### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
 <h5 align="left">Note* </h5>
