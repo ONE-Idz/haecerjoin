@@ -37,7 +37,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 
 
 
-- -
+- - -
 
 <h5 align="left">How To Update Script:</h5>
 
