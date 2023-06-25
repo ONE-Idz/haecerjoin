@@ -57,9 +57,9 @@ Jika Belum Memeliki Termux, Untuk Aplikasinya Download <a href="https://f-droid.
    
    
 
-![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289668033300?text=Permisi+Bang+Jun!) <br><br>
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289668033300?text=Permisi+Bang+Jun!) <br><br>
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
--
+
 
 - <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file">Thanks☕👈</a>
     
