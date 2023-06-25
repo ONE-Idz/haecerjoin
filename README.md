@@ -15,7 +15,7 @@
 -
 
 <h5 align="left">INSTALL COMAND IN TERMUX:</h5>
-Jika Belum Memeliki Termux, Untuk Download Denggan <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini.
+Jika Belum Memeliki Termux Download dulu, Untuk Download Denggan Cara <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini.
 
 
     $ termux-setup-storage
