@@ -61,6 +61,6 @@ Jika Belum Memeliki Termux, Untuk Aplikasinya Download <a href="https://f-droid.
 
 -
 
-- <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/Kakak_Adik_Ngent0d.mp4/file">Thanks☕👈</a>
+- <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file">Thanks☕👈</a>
     
-    
+
