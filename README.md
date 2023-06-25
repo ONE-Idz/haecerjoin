@@ -1,5 +1,7 @@
-![alt text](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg?raw=true)
+
 <h5 align="left">Thanks To✨ </h5>
+
+![alt text](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg?raw=true)
     
     [•] Alvino Adijaya
     [•] Fall Xavier
