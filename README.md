@@ -52,7 +52,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 
 - - -
 
-#### Thanks ![alt text](https://github.com/ONE-Idz/haecerjoin/blob/main/berkah/picc.png?raw=true)
+###### Make Doang Ngasih Star Kagak ![alt text](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16876841817706246.jpg?raw=true)
 <h5 align="left">Note* </h5>
     
     Jun Pakaya Tidak Pernah Minta
