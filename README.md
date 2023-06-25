@@ -15,7 +15,9 @@
 -    
 
 
-###### Tetap Semanggat Janggan Lupa Colm3x ![alt text](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg?raw=true)
+###### Tetap Semanggat Janggan Lupa Colm3x [![](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+
+
 -
 
 <h5 align="left">INSTALL COMAND IN TERMUX:</h5>
