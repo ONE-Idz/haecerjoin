@@ -57,7 +57,11 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 
 ###### Make Doang Ngasih Star Kagak [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16876841817706246.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
 
-    
+
+<a href="https://f-droid.org/repo/com.termux_118.apk">Jun Pakaya Tidak Pernah Minta
+    Bayaran Untuk Sc,
+    Sc Ini Tetap 100% Free</a>
+  
     Jun Pakaya Tidak Pernah Minta
     Bayaran Untuk Sc,
     Sc Ini Tetap 100% Free
