@@ -57,14 +57,15 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 
 ###### Make Doang Ngasih Star Kagak [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16876841817706246.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
 
-<h5 align="left">Note* </h5>
-<a href="https://f-droid.org/repo/com.termux_118.apk">Jun Pakaya Tidak Pernah Minta Bayaran Untuk Sc, Karena Sc Ini Tetap 100% Free</a>
+<h5 align="left">Note* </h5> <a href="https://www.facebook.com/jun.picscurnot">Jun Pakaya Tidak Pernah Minta Bayaran Untuk Sc Ini, Jadi Sc Ini Tetap 100% Free</a>
     
+[![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
   
     GUNAKAN DENGGAN BIJAK,
     APAPUN YANG TERJADI BUKAN 
     TANGGUNG ADMIN
     
+[![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
 
    
 ---   
