@@ -57,7 +57,7 @@ Jika Belum Memeliki Termux, Untuk Aplikasinya Download <a href="https://f-droid.
    
    
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289668033300?text=Permisi+Bang+Jun!) <br><br>
+![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289668033300?text=Permisi+Bang+Jun!) <br><br>
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
 -
 
