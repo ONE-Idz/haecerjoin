@@ -1,3 +1,7 @@
+<h5 align="left">Us* </h5> <a href="https://www.facebook.com/jun.picscurnot">Script Closed During Eid al-Adha</a>
+
+<h5 align="left">Id* </h5> <a href="https://www.facebook.com/jun.picscurnot">Script Di Tutup Selama Hari Raya Idul Adha</a>
+
 
 <h5 align="left">Thanks To✨ </h5>
 
