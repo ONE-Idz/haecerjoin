@@ -1,3 +1,9 @@
+[![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+## MINIMAL BINTANG LAH KONTOL🌟🌟🌟
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Gunakan+Denggan+Bijak+Kontol....!+)
+
+[![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+    
 
 
 <h5 align="left">Thanks To✨ </h5>
